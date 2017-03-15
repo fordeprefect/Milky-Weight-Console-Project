@@ -1,0 +1,6 @@
+c:\users\tea\documents\visual studio 2015\Projects\MilkyWeightConsole\MilkyWeightConsole\bin\Debug\MilkyWeightConsole.exe.config
+c:\users\tea\documents\visual studio 2015\Projects\MilkyWeightConsole\MilkyWeightConsole\bin\Debug\MilkyWeightConsole.exe
+c:\users\tea\documents\visual studio 2015\Projects\MilkyWeightConsole\MilkyWeightConsole\bin\Debug\MilkyWeightConsole.pdb
+c:\users\tea\documents\visual studio 2015\Projects\MilkyWeightConsole\MilkyWeightConsole\obj\Debug\MilkyWeightConsole.csprojResolveAssemblyReference.cache
+c:\users\tea\documents\visual studio 2015\Projects\MilkyWeightConsole\MilkyWeightConsole\obj\Debug\MilkyWeightConsole.exe
+c:\users\tea\documents\visual studio 2015\Projects\MilkyWeightConsole\MilkyWeightConsole\obj\Debug\MilkyWeightConsole.pdb
